@@ -1,4 +1,4 @@
-# Authentication Quickstart with Express, Passport and Sequelize mysql Edition
+# Pokemon Spotter API
 
 [https://warm-atoll-42194.herokuapp.com/](https://warm-atoll-42194.herokuapp.com/)
 
